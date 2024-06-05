@@ -44,7 +44,7 @@ Full documentation for all versions can be found [on the website](https://w3id.o
         - **<abbr title="A description of the subject resource.">Comment</abbr>**: This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 957258.
 - **<abbr title="A legal document giving official permission to do something with the resource.">License</abbr>**: [https://spdx.org/licenses/CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0)
 - **<abbr title="Date of formal issuance of the resource.">Date Issued</abbr>**: 2023-05-04
-- **<abbr title="Date on which the resource was changed.">Date Modified</abbr>**: 2024-06-04
+- **<abbr title="Date on which the resource was changed.">Date Modified</abbr>**: 2024-06-05
 - **<abbr title="A Web page that can be navigated to in a Web browser to gain access to the catalog, a dataset, its distributions and/or additional information.">Landing page</abbr>**: [assist-iot-weather-graphs (dev)](https://w3id.org/riverbench/datasets/assist-iot-weather-graphs/dev)
 - **<abbr title="An established standard to which the described resource conforms.">Conforms To</abbr>**: Metadata ([https://w3id.org/riverbench/schema/metadata](https://w3id.org/riverbench/schema/metadata))
 
